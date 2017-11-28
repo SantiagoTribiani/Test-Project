@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "4A462573-637B-41A3-A4D7-748C09CFC4F2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 102,
+    "width": 102,
+    "x": 1551,
+    "y": 451
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "67593EB3-BB4D-4AE0-BC5A-3C00B632CFDC"
+    },
+    {
+      "class": "text",
+      "id": "712F001E-1713-41DA-9FE2-1B750F594FD0"
+    }
+  ],
+  "name": "BLOCK question",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
