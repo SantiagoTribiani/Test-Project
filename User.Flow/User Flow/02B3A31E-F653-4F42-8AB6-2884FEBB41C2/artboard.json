@@ -47,14 +47,6 @@
     },
     {
       "class": "group",
-      "id": "BE328B08-AB0C-459D-A7D1-6DD9DAA3F155"
-    },
-    {
-      "class": "group",
-      "id": "2D500B03-CB1C-4482-A391-B23FC03148FB"
-    },
-    {
-      "class": "group",
       "id": "B3E2EE00-F48D-4D09-9D9A-1012A2001EEC"
     },
     {
@@ -114,48 +106,8 @@
       "id": "974D4532-6188-4E7C-AEBE-E8E97DE6FBF3"
     },
     {
-      "class": "group",
-      "id": "3F5EA0BD-889A-4AFF-8D83-E7C3ED5587BD"
-    },
-    {
-      "class": "group",
-      "id": "606871F9-50DB-4324-8AA3-D0759611D476"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D556D3B0-3AE7-4645-AE62-BD9F35D0695A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3C1F16A9-2954-4D06-8F83-A5656F320FE9"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "76A0EF2C-E37A-4103-80E4-AF335699F5A6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DAA00775-C7B5-4A75-B053-401D1785D856"
-    },
-    {
-      "class": "group",
-      "id": "2AD84590-4DBC-4C07-9C30-893441788E2F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "79A5A7BA-2C76-4678-A667-DB9C9CAB4C77"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5B206C2D-6C7C-4DF8-AB85-77A0567F23EF"
-    },
-    {
       "class": "symbolInstance",
       "id": "9619CDC6-6A3C-49F3-9133-00430795A5A9"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "016082B1-C582-4ED2-81AD-8310D9642045"
     },
     {
       "class": "symbolInstance",
@@ -194,24 +146,8 @@
       "id": "CDACB80D-6C4C-4D67-A023-EF819315A4E0"
     },
     {
-      "class": "symbolInstance",
-      "id": "C56169BE-7F18-44DA-9450-A187C8FA8E01"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FA07087C-B074-4CFB-8C3D-B045C70590D6"
-    },
-    {
-      "class": "group",
-      "id": "B1480CD3-8744-4414-ADCD-69B335304A7D"
-    },
-    {
       "class": "group",
       "id": "73711404-388D-4AF4-BC57-A724AA392CEB"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "E5E549BF-EDB3-4409-9700-B1C60CBFB05E"
     },
     {
       "class": "group",
